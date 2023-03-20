@@ -1,0 +1,91 @@
+
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+  }
+ 
+ li {
+    float: left;
+
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:white;
+  }
+
+#video{
+height: 565px;
+width: 100%;
+border:none;
+}
+
+.travel_mainDiv
+{
+    border: 1px solid lightgray;
+}
+
+.travel_mainDiv
+{
+    width:90%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+    margin: 20px;
+}
+
+img
+{
+width:60%;
+height: 400px;  
+}
+
+#img2
+{
+  width:25%;
+  height: 70%;
+}
+
+.movie_head
+{
+ font: size 20px;
+ padding: 6px 22px;
+ border-radius: 10px;
+ margin-bottom: 15px; 
+ width: 90%;
+}
+
+.movie_head i
+{
+ float: right; 
+}
+
+.achievement_text span
+{
+  color: orange;
+}
+
+.new
+{
+ margin: 20px; 
+ 
+}
+
+#contact iframe
+{
+  width: 90%;
+}
+
+
+  
